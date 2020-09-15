@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+*Yan/final/PositionBasedFluidSimulation
+*Yan/share

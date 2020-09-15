@@ -1,0 +1,27 @@
+[
+{
+  "directory": "F:/Yan/7/Hw7/PA7/Assignment7/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.obj -c F:/Yan/7/Hw7/PA7/Assignment7/main.cpp",
+  "file": "F:/Yan/7/Hw7/PA7/Assignment7/main.cpp"
+},
+{
+  "directory": "F:/Yan/7/Hw7/PA7/Assignment7/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.obj -c F:/Yan/7/Hw7/PA7/Assignment7/Vector.cpp",
+  "file": "F:/Yan/7/Hw7/PA7/Assignment7/Vector.cpp"
+},
+{
+  "directory": "F:/Yan/7/Hw7/PA7/Assignment7/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.obj -c F:/Yan/7/Hw7/PA7/Assignment7/Scene.cpp",
+  "file": "F:/Yan/7/Hw7/PA7/Assignment7/Scene.cpp"
+},
+{
+  "directory": "F:/Yan/7/Hw7/PA7/Assignment7/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.obj -c F:/Yan/7/Hw7/PA7/Assignment7/BVH.cpp",
+  "file": "F:/Yan/7/Hw7/PA7/Assignment7/BVH.cpp"
+},
+{
+  "directory": "F:/Yan/7/Hw7/PA7/Assignment7/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.obj -c F:/Yan/7/Hw7/PA7/Assignment7/Renderer.cpp",
+  "file": "F:/Yan/7/Hw7/PA7/Assignment7/Renderer.cpp"
+}
+]

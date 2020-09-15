@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Yan/5/Test/fun.hpp
+iostream
+-
+
+F:/Yan/5/Test/test.cpp
+fun.hpp
+F:/Yan/5/Test/fun.hpp
+iostream
+-
+string
+-
+fstream
+-
+

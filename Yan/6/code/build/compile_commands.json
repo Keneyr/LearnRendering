@@ -1,0 +1,27 @@
+[
+{
+  "directory": "F:/Yan/6/code/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/main.cpp.obj -c F:/Yan/6/code/main.cpp",
+  "file": "F:/Yan/6/code/main.cpp"
+},
+{
+  "directory": "F:/Yan/6/code/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Vector.cpp.obj -c F:/Yan/6/code/Vector.cpp",
+  "file": "F:/Yan/6/code/Vector.cpp"
+},
+{
+  "directory": "F:/Yan/6/code/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Scene.cpp.obj -c F:/Yan/6/code/Scene.cpp",
+  "file": "F:/Yan/6/code/Scene.cpp"
+},
+{
+  "directory": "F:/Yan/6/code/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/BVH.cpp.obj -c F:/Yan/6/code/BVH.cpp",
+  "file": "F:/Yan/6/code/BVH.cpp"
+},
+{
+  "directory": "F:/Yan/6/code/build",
+  "command": "C:/MinGW/bin/g++.exe    -g   -std=gnu++17 -o CMakeFiles/RayTracing.dir/Renderer.cpp.obj -c F:/Yan/6/code/Renderer.cpp",
+  "file": "F:/Yan/6/code/Renderer.cpp"
+}
+]

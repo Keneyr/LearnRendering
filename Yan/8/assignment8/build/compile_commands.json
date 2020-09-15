@@ -1,0 +1,157 @@
+[
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glew",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo  -IF:/Yan/8/assignment8/CGL/deps/glew/include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glew.dir/src/glew.c.obj /FdCMakeFiles/glew.dir/glew.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glew/src/glew.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glew/src/glew.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glew",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo  -IF:/Yan/8/assignment8/CGL/deps/glew/include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glew.dir/src/glewinfo.c.obj /FdCMakeFiles/glew.dir/glew.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glew/src/glewinfo.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glew/src/glewinfo.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glew",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo  -IF:/Yan/8/assignment8/CGL/deps/glew/include  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glew.dir/src/visualinfo.c.obj /FdCMakeFiles/glew.dir/glew.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glew/src/visualinfo.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glew/src/visualinfo.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/context.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/context.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/context.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/init.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/init.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/init.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/input.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/input.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/input.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/monitor.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/monitor.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/monitor.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/window.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/window.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/window.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/win32_init.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_init.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_init.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/win32_monitor.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_monitor.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/win32_time.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_time.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_time.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/win32_tls.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_tls.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_tls.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/win32_window.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_window.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/win32_window.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/winmm_joystick.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/winmm_joystick.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/winmm_joystick.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/deps/glfw/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IF:/Yan/8/assignment8/CGL/deps/glfw/src -IF:/Yan/8/assignment8/build/CGL/deps/glfw/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   -w /FoCMakeFiles/glfw.dir/wgl_context.c.obj /FdCMakeFiles/glfw.dir/glfw.pdb /FS -c F:/Yan/8/assignment8/CGL/deps/glfw/src/wgl_context.c",
+  "file": "F:/Yan/8/assignment8/CGL/deps/glfw/src/wgl_context.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/vector2D.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/vector2D.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/vector2D.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/vector3D.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/vector3D.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/vector3D.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/vector4D.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/vector4D.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/vector4D.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/matrix3x3.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/matrix3x3.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/matrix3x3.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/matrix4x4.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/matrix4x4.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/matrix4x4.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/quaternion.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/quaternion.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/quaternion.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/complex.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/complex.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/complex.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/color.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/color.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/color.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/osdtext.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/osdtext.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/osdtext.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/osdfont.c.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/osdfont.c",
+  "file": "F:/Yan/8/assignment8/CGL/src/osdfont.c"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/viewer.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/viewer.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/viewer.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/base64.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/base64.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/base64.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/CGL/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IF:/Yan/8/assignment8/CGL/deps/glew/include -IC:/ProgramData/Anaconda3/Library/include/freetype2 -IF:/Yan/8/assignment8/CGL/src  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 -std=gnu++0x /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/CGL.dir/tinyxml2.cpp.obj /FdCMakeFiles/CGL.dir/CGL.pdb /FS -c F:/Yan/8/assignment8/CGL/src/tinyxml2.cpp",
+  "file": "F:/Yan/8/assignment8/CGL/src/tinyxml2.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IC:/ProgramData/Anaconda3/Library/include/freetype2  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/ropesim.dir/rope.cpp.obj /FdCMakeFiles/ropesim.dir/ /FS -c F:/Yan/8/assignment8/src/rope.cpp",
+  "file": "F:/Yan/8/assignment8/src/rope.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IC:/ProgramData/Anaconda3/Library/include/freetype2  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/ropesim.dir/application.cpp.obj /FdCMakeFiles/ropesim.dir/ /FS -c F:/Yan/8/assignment8/src/application.cpp",
+  "file": "F:/Yan/8/assignment8/src/application.cpp"
+},
+{
+  "directory": "F:/Yan/8/assignment8/build/src",
+  "command": "\"E:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe\"  /nologo /TP  -IF:/Yan/8/assignment8/CGL/include -IC:/ProgramData/Anaconda3/Library/include/freetype2  /DWIN32 /D_WINDOWS /W3 /GR /EHsc -std=gnu++11 /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles/ropesim.dir/main.cpp.obj /FdCMakeFiles/ropesim.dir/ /FS -c F:/Yan/8/assignment8/src/main.cpp",
+  "file": "F:/Yan/8/assignment8/src/main.cpp"
+}
+]

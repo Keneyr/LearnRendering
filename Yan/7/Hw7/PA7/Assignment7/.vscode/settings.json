@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "fstream": "cpp",
+        "algorithm": "cpp",
+        "xutility": "cpp",
+        "random": "cpp"
+    }
+}

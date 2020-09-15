@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "fstream": "cpp",
+        "memory": "cpp",
+        "vector": "cpp",
+        "type_traits": "cpp",
+        "optional": "cpp",
+        "random": "cpp"
+    }
+}
