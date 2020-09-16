@@ -93,7 +93,6 @@ namespace rst
 
         std::vector<Eigen::Vector3f> frame_buf;
         std::vector<float> depth_buf;
-        
         std::vector<Eigen::Vector3f> color_buf; //SSAA:record the color info of each point
         
         int get_index(int x, int y);

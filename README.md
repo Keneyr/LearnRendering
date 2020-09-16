@@ -24,9 +24,9 @@ learning rendering on Games101
 [知识](https://naotu.baidu.com/file/00108778255ff26980fb41fb49a14443)
 [框架](https://naotu.baidu.com/file/7beebb6492a43cd23b28bdac9bdf0253)
 
-搜了一下知网，竟然还有用了Bresenham算法的论文:)
+搜了一下知网，竟然还有用了Bresenham算法的论文，还很新:)
 
-第2节：栅格化实心三角形，深度测试，ssaa超采样
+第2节：栅格化实心三角形(判断一个点是否在三角形内)，深度测试，ssaa超采样
 
 [知识]()
 [框架]()
